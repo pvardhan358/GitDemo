@@ -23,7 +23,13 @@
         public void Sub()
         {
             Result = Num1 + Num2;
-        }       
+        }
+        
+        public void Mod()
+        {
+            Result = Num1 % Num2;
+        }
+               
     }
  
 }
