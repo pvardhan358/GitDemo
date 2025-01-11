@@ -23,19 +23,7 @@
         public void Sub()
         {
             Result = Num1 + Num2;
-        }
-        public void Mul()
-        {
-            Result = Num1 * Num2;
-        }
-        public void Div()
-        {
-            Result = Num1 / Num2;
-        }
-        public void Div()
-        {
-            Result = Num1 / Num2;
-        }
+        }       
     }
  
 }

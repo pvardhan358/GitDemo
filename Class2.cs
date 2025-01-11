@@ -12,8 +12,5 @@ namespace ClassLibrary1
             return x * x;
         }
 
-        public int cube(int x) { 
-            return square(x)*x;
-        }
     }
 }
