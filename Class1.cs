@@ -32,6 +32,10 @@
         {
             Result = Num1 / Num2;
         }
+        public void Div()
+        {
+            Result = Num1 / Num2;
+        }
     }
  
 }
